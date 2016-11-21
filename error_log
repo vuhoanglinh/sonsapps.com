@@ -1,0 +1,56 @@
+[23-Oct-2014 02:09:50 UTC] PHP Fatal error:  Call to undefined method App_model::count_all() in /home/sonappsadmin/public_html/application/controllers/admin/game.php on line 208
+[23-Oct-2014 03:16:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/sonappsadmin/public_html/application/controllers/home.php on line 35
+[23-Oct-2014 03:17:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/sonappsadmin/public_html/application/controllers/home.php on line 35
+[23-Oct-2014 03:17:57 UTC] PHP Fatal error:  Call to a member function setLogin() on a non-object in /home/sonappsadmin/public_html/application/controllers/home.php on line 68
+[23-Oct-2014 06:27:53 UTC] PHP Fatal error:  Call to a member function checklogin() on a non-object in /home/sonappsadmin/public_html/application/controllers/admin/user.php on line 92
+[23-Oct-2014 06:29:04 UTC] PHP Fatal error:  Call to a member function checklogin() on a non-object in /home/sonappsadmin/public_html/application/controllers/admin/user.php on line 92
+[23-Oct-2014 06:31:41 UTC] PHP Fatal error:  Call to a member function checklogin() on a non-object in /home/sonappsadmin/public_html/application/controllers/admin/user.php on line 92
+[25-Oct-2014 03:49:45 UTC] PHP Parse error:  syntax error, unexpected ''); });' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sonappsadmin/public_html/application/views/themes/application_detail_view.php on line 176
+[25-Oct-2014 03:49:56 UTC] PHP Parse error:  syntax error, unexpected ''); });' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sonappsadmin/public_html/application/views/themes/application_detail_view.php on line 176
+[25-Oct-2014 03:50:18 UTC] PHP Parse error:  syntax error, unexpected ''); });' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sonappsadmin/public_html/application/views/themes/application_detail_view.php on line 176
+[25-Oct-2014 03:50:44 UTC] PHP Parse error:  syntax error, unexpected ''); });' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sonappsadmin/public_html/application/views/themes/application_detail_view.php on line 176
+[25-Oct-2014 06:52:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/sonappsadmin/public_html/application/controllers/admin/user.php on line 119
+[25-Oct-2014 07:46:45 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sonappsadmin/public_html/application/views/admin/users/users_view.php on line 38
+[25-Oct-2014 10:18:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sonappsadmin/public_html/application/controllers/home.php on line 197
+[26-Oct-2014 04:55:40 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sonappsadmin/public_html/application/controllers/admin/user.php on line 52
+[26-Oct-2014 04:55:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sonappsadmin/public_html/application/controllers/admin/user.php on line 52
+[26-Oct-2014 06:07:11 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sonappsadmin/public_html/application/controllers/home.php on line 308
+[26-Oct-2014 06:07:36 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sonappsadmin/public_html/application/controllers/home.php on line 308
+[26-Oct-2014 06:07:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sonappsadmin/public_html/application/controllers/home.php on line 308
+[26-Oct-2014 06:07:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sonappsadmin/public_html/application/controllers/home.php on line 308
+[26-Oct-2014 06:07:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sonappsadmin/public_html/application/controllers/home.php on line 308
+[26-Oct-2014 07:06:52 UTC] PHP Fatal error:  Class 'home' not found in /home/sonappsadmin/public_html/system/core/CodeIgniter.php on line 308
+[26-Oct-2014 07:06:52 UTC] PHP Fatal error:  Class 'home' not found in /home/sonappsadmin/public_html/system/core/CodeIgniter.php on line 308
+[26-Oct-2014 07:13:30 UTC] PHP Fatal error:  Call to a member function setLogin() on a non-object in /home/sonappsadmin/public_html/application/controllers/home.php on line 67
+[26-Oct-2014 07:13:31 UTC] PHP Fatal error:  Call to a member function setLogin() on a non-object in /home/sonappsadmin/public_html/application/controllers/home.php on line 67
+[26-Oct-2014 07:15:25 UTC] PHP Parse error:  syntax error, unexpected '$pos' (T_VARIABLE) in /home/sonappsadmin/public_html/application/controllers/home.php on line 288
+[26-Oct-2014 07:15:25 UTC] PHP Parse error:  syntax error, unexpected '$pos' (T_VARIABLE) in /home/sonappsadmin/public_html/application/controllers/home.php on line 288
+[27-Oct-2014 16:56:09 UTC] PHP Fatal error:  Call to a member function count_all() on a non-object in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 63
+[27-Oct-2014 16:57:34 UTC] PHP Fatal error:  Call to undefined method Faq_model::count_all() in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 76
+[27-Oct-2014 16:57:48 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 104
+[27-Oct-2014 16:58:29 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 104
+[27-Oct-2014 17:03:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 86
+[27-Oct-2014 17:03:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 86
+[27-Oct-2014 17:03:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 86
+[27-Oct-2014 17:04:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 86
+[27-Oct-2014 17:04:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 86
+[27-Oct-2014 17:04:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 86
+[27-Oct-2014 17:05:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 86
+[27-Oct-2014 17:08:11 UTC] PHP Fatal error:  Call to a member function checklogin() on a non-object in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 110
+[27-Oct-2014 17:08:11 UTC] PHP Fatal error:  Call to a member function checklogin() on a non-object in /home/sonappsadmin/public_html/application/controllers/admin/faq.php on line 110
+[28-Oct-2014 03:04:00 UTC] PHP Fatal error:  Call to undefined method stdClass::setLang() in /home/sonappsadmin/public_html/application/controllers/admin/events.php on line 14
+[28-Oct-2014 03:05:00 UTC] PHP Fatal error:  Call to undefined method stdClass::setLang() in /home/sonappsadmin/public_html/application/controllers/admin/events.php on line 14
+[28-Oct-2014 03:05:30 UTC] PHP Fatal error:  Call to a member function checklogin() on a non-object in /home/sonappsadmin/public_html/application/controllers/admin/events.php on line 13
+[28-Oct-2014 05:10:22 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/sonappsadmin/public_html/application/controllers/admin/events.php on line 62
+[28-Oct-2014 17:54:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sonappsadmin/public_html/application/views/admin/faq/list_view.php on line 91
+[30-Oct-2014 05:36:41 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/sonappsadmin/public_html/application/config/routes.php on line 49
+[30-Oct-2014 05:36:42 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/sonappsadmin/public_html/application/config/routes.php on line 49
+[30-Oct-2014 06:20:51 UTC] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/sonappsadmin/public_html/system/language/lang/vi_lang.php on line 40
+[30-Oct-2014 06:20:52 UTC] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/sonappsadmin/public_html/system/language/lang/vi_lang.php on line 40
+[30-Oct-2014 18:21:51 UTC] PHP Fatal error:  Call to undefined method App_model::get() in /home/sonappsadmin/public_html/application/controllers/home.php on line 309
+[30-Oct-2014 18:24:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sonappsadmin/public_html/application/controllers/home.php on line 311
+[30-Oct-2014 18:24:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sonappsadmin/public_html/application/controllers/home.php on line 311
+[31-Oct-2014 02:03:20 UTC] PHP Fatal error:  Call to undefined function force_download() in /home/sonappsadmin/public_html/application/controllers/home.php on line 327
+[31-Oct-2014 02:03:47 UTC] PHP Fatal error:  Call to undefined function force_download() in /home/sonappsadmin/public_html/application/controllers/home.php on line 327
+[31-Oct-2014 02:03:54 UTC] PHP Fatal error:  Call to undefined function force_download() in /home/sonappsadmin/public_html/application/controllers/home.php on line 327
+[31-Oct-2014 02:04:51 UTC] PHP Fatal error:  Call to undefined function force_download() in /home/sonappsadmin/public_html/application/controllers/home.php on line 327
